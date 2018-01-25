@@ -1,0 +1,1 @@
+var index = regquire("./index.js")
